@@ -118,7 +118,7 @@ body {
 
 /* section */
 .section-title {
-  font-weight: 700;
+  /* font-weight: 700; */
   font-size: 36px;
   letter-spacing: 0.03em;
   line-height: 1.2;
@@ -128,7 +128,7 @@ body {
 
 /* quality */
 .quality-title {
-  font-weight: 700;
+  /* font-weight: 700; */
   font-size: 14px;
   line-height: 1.2;
   letter-spacing: 0.03em;
@@ -165,7 +165,7 @@ body {
 }
 
 .team-profession {
-  font-weight: 400;
+  /* font-weight: 400; */
   font-size: 16px;
   line-height: 1.2;
   letter-spacing: 0.03em;
@@ -225,7 +225,7 @@ body {
 /* portfolio project */
 
 .project-title {
-  font-weight: 700;
+  /* font-weight: 700; */
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
@@ -233,7 +233,7 @@ body {
 }
 
 .project-marker {
-  font-weight: 400;
+  /* font-weight: 400; */
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
